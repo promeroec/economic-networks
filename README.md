@@ -1,4 +1,4 @@
-# Economic Networks Model - Implementation Complete
+# Economic Networks Model
 
 ## Overview
 
